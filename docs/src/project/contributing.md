@@ -11,7 +11,7 @@
 
 ## 行为准则
 
-请阅读并遵守 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)。
+请阅读并遵守 [贡献者公约行为准则](./code-of-conduct)。
 
 ## 如何贡献
 
@@ -82,7 +82,7 @@ brew install golangci-lint
 
    scope 示例：`server`, `web`, `config`, `deploy`, `docs`, `mold`, `production`, `finance`
 
-5. 提交 PR 到 `develop` 分支，填写 [PR 模板](./.github/PULL_REQUEST_TEMPLATE.md)
+5. 提交 PR 到 `develop` 分支，填写 PR 模板
 
 ### 3. 代码审查
 
@@ -135,7 +135,7 @@ make docker/up
 
 ## 项目路线图
 
-参见 [CHANGELOG.md](./CHANGELOG.md) 了解版本记录和规划。
+参见 [更新日志](../guide/changelog) 了解版本记录和规划。
 
 ## 问题？
 
