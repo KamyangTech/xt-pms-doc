@@ -29,7 +29,7 @@ import SiteMap from './SiteMap.vue'
         </svg>
       </a>
       <a class="setup" href="/installation/docker-quick.html">安装</a>
-      <a class="security" href="https://demo.pms.xintest.cn/" target="_blank">
+      <a class="security" href="https://pmsdemo.xintest.cn/" target="_blank">
         访问演示站点
         <svg
           class="icon"

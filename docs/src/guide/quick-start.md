@@ -18,7 +18,7 @@ import { VTCodeGroup, VTCodeGroupTab } from '../../.vitepress/theme/vue-theme-sr
 
 ## 在线尝试  {#online-demo}
 
-想要快速体验 Xt-PMS，您可以直接试试我们的 [在线示例](https://xt-pms.vercel.app/login)。
+想要快速体验 Xt-PMS，您可以直接试试我们的 [在线示例](https://pmsdemo.xintest.cn)。
 
 :::info 测试账号密码
 
