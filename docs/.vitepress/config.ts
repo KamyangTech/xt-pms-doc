@@ -168,7 +168,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   description: 'Xt-PMS - 小微模具注塑企业专用生产管理系统',
   srcDir: 'src',
   srcExclude: [],
-  outDir: 'dist',
+  outDir: '../dist',
 
   head: [
     ['meta', { name: 'theme-color', content: '#0052D9' }],
