@@ -1,0 +1,17 @@
+@import "./zh-cn.css";
+@import "./pages.css";
+@import "./badges.css";
+@import "./options-boxes.css";
+@import "./inline-demo.css";
+@import "./utilities.css";
+@import "./style-guide.css";
+@import "./vars.css";
+@import "./changelog.css";
+
+/* medium-zoom 放大层级，避免被侧边栏遮挡 */
+.medium-zoom-overlay {
+  z-index: 100 !important;
+}
+.medium-zoom-image--opened {
+  z-index: 101 !important;
+}
